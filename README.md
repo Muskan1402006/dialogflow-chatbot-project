@@ -68,3 +68,34 @@ screenshots/day-4
 ### Key Learning
 
 I learned how to make the chatbot intelligent by connecting it to a Knowledge Base so it can answer dynamic questions from provided content.
+
+---
+
+## Day 5 Progress — Knowledge Space (Advanced Knowledge Base)
+
+Today I explored deeper into Dialogflow Knowledge Base and understood how Knowledge Space helps the chatbot answer more accurate and contextual questions from large data sources.
+
+### What I implemented
+
+- Improved the existing Knowledge Base
+- Added more questions and content to increase answer accuracy
+- Tested multiple user questions based on the same document
+- Observed how Dialogflow picks the most relevant answer from the knowledge source
+- Understood difference between Intents response and Knowledge Base response
+
+### What I learned
+
+Knowledge Space allows the chatbot to:
+- Handle large FAQs without creating many intents
+- Provide dynamic answers from documents and web pages
+- Improve user experience with better automated responses
+
+### Screenshots
+
+All screenshots are available in:
+
+screenshots/day-5
+
+### Key Learning
+
+I learned how to enhance chatbot intelligence using Knowledge Space so it can answer a wide variety of user queries from uploaded knowledge sources without manual intent creation.
