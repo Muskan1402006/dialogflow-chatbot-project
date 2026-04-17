@@ -99,3 +99,13 @@ screenshots/day-5
 ### Key Learning
 
 I learned how to enhance chatbot intelligence using Knowledge Space so it can answer a wide variety of user queries from uploaded knowledge sources without manual intent creation.
+---
+
+## Day 6 — Completed Video 1
+
+- Revised full chatbot flow in Dialogflow
+- Tested intents, entities, and knowledge base together
+- Verified chatbot working in `public/index.html`
+- Confirmed end-to-end response from user message to bot reply
+
+**Learning:** Understood complete process of building and running a Dialogflow chatbot on a webpage.
